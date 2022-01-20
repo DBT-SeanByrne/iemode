@@ -1,15 +1,15 @@
-<site-list version="2">
+<site-list version="3">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>01/19/2022 23:29:23</date-created>
+    <date-created>01/20/2022 00:18:11</date-created>
   </created-by>
   <site url="raps">
-    <compat-mode>IE11</compat-mode>
-    <open-in>MSEdge</open-in>
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
   </site>
   <site url="rapstest">
     <compat-mode>IE8Enterprise</compat-mode>
-    <open-in>MSEdge</open-in>
+    <open-in>IE11</open-in>
   </site>
 </site-list>
