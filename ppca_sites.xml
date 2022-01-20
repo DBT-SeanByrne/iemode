@@ -9,7 +9,7 @@
     <open-in>IE11</open-in>
   </site>
   <site url="rapstest">
-    <compat-mode>IE8Enterprise</compat-mode>
-    <open-in>IE11</open-in>
+    <compat-mode>Default/compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
 </site-list>
